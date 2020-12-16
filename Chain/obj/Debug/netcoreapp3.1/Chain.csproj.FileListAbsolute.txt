@@ -1,0 +1,13 @@
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\bin\Debug\netcoreapp3.1\Chain.exe
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\bin\Debug\netcoreapp3.1\Chain.deps.json
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\bin\Debug\netcoreapp3.1\Chain.runtimeconfig.json
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\bin\Debug\netcoreapp3.1\Chain.runtimeconfig.dev.json
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\bin\Debug\netcoreapp3.1\Chain.dll
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\bin\Debug\netcoreapp3.1\Chain.pdb
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.csprojAssemblyReference.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.AssemblyInfoInputs.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.AssemblyInfo.cs
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.csproj.CoreCompileInputs.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.dll
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.pdb
+C:\Users\xavav\Desktop\Uni\Pattrns\Chain\Chain\obj\Debug\netcoreapp3.1\Chain.genruntimeconfig.cache
