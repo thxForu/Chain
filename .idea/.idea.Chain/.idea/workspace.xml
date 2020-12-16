@@ -16,8 +16,8 @@
         <option value="$PROJECT_DIR$/Chain/AbstractHandler.cs" />
         <option value="$PROJECT_DIR$/Chain/Request.cs" />
         <option value="$PROJECT_DIR$/Chain/AuthenticationHandler.cs" />
-        <option value="$PROJECT_DIR$/Chain/EmailCodeHandler.cs" />
         <option value="$PROJECT_DIR$/Chain/Program.cs" />
+        <option value="$PROJECT_DIR$/Chain/EmailCodeHandler.cs" />
       </list>
     </option>
   </component>
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608118600207</updated>
-      <workItem from="1608118605841" duration="8953000" />
+      <workItem from="1608118605841" duration="11783000" />
     </task>
     <servers />
   </component>
@@ -86,6 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040/1920.61.1920.1040@0.0.1920.1040" timestamp="1608129268310" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1608129552486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/1920.61.1920.1040@0.0.1920.1040" timestamp="1608129552486" />
     <state x="794" y="221" key="RiderGenerateDialog" timestamp="1608119814043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

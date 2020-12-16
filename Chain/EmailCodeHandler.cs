@@ -41,7 +41,7 @@ namespace Chain
             return checkCode == randomNumber.ToString();
         }
 
-        private void SandEmail()
+        private void SendEmail()
         {
             randomNumber = _random.Next(0,1000);
             Console.WriteLine("Code: "+randomNumber);
@@ -50,7 +50,7 @@ namespace Chain
         public override object Handler(object request)
         {
             
-            SandEmail();
+            SendEmail();
             Console.WriteLine("Enter Number from email");
             var code = Console.ReadLine();
             
